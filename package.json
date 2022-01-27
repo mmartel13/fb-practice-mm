@@ -1,0 +1,23 @@
+{
+  "name": "fb-practice-mm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmartel13/fb-practice-mm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmartel13/fb-practice-mm/issues"
+  },
+  "homepage": "https://github.com/mmartel13/fb-practice-mm#readme",
+  "dependencies": {
+    "firebase-admin": "^10.0.2"
+  }
+}
